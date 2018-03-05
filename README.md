@@ -20,6 +20,7 @@ http://www.lumosvision.com/
 
 * **Shalin Shah** - *Initial work* - [Github](https://github.com/Johnathanachen)
 * **Johnathan Chen** - *Login, Camera* - [Github](https://github.com/shalins)
+* **Sky Xu** - *Video Frame Extract* - [Github](https://github.com/skymeow)
 
 ## License
 
