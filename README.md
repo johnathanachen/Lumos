@@ -16,6 +16,12 @@ http://www.lumosvision.com/
 * [SwiftyCam](https://github.com/Awalz/SwiftyCam) - Camera
 * [AVFoundation](https://developer.apple.com/av-foundation/) - Saving and displaying Frames
 
+## Features I built 
+* Login/Signup 
+* Camera recording
+* 10 second circle animation while recording
+* Frame extract from recorded video
+
 ## Authors
 
 * **Shalin Shah** - *Initial work* - [Github](https://github.com/Johnathanachen)
